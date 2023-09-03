@@ -1,3 +1,3 @@
 # 📦 hexpack.org
 
-This is the website for hexpack.org
+This is the website for [https://hexpack.org](hexpack.org)
